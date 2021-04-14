@@ -72,7 +72,7 @@ header .navbar li a:hover{
     display: flex;
     justify-content: center;
     align-items: center;
-    background: linear-gradient( rgba(233, 116, 141, 0.02), rgba(241, 84, 84, 0.73)), url(/image/bg.jpg);
+    background: linear-gradient( rgba(233, 116, 141, 0.02), rgba(241, 84, 84, 0.73)), url(/image/bg01.jpg);
     background-size: cover;
     background-repeat: no-repeat;
 } 
@@ -272,7 +272,7 @@ header .navbar li a:hover{
     font-weight: 600;
 }
 .contact{
-    background: url(/image/bg3.jpg);
+    background: url(/image/bg03.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     margin-top: 30px;
