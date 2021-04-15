@@ -272,7 +272,7 @@ header .navbar li a:hover{
     font-weight: 600;
 }
 .contact{
-    background: url(/image/bg03.jpg);
+    background: linear-gradient(rgba(10, 30, 50, 0.2), rgba(95, 75, 75, 0.2)), url(/image/bg03.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     margin-top: 30px;
@@ -292,10 +292,15 @@ header .navbar li a:hover{
     font-weight: 500;
     margin-bottom: 20px;
 }
+.contact p{
+    font-size: 20px;
+    font-weight: 500;
+    color: #fff;
+}
 .contact-form .input-box{
     position: relative;
     width: 100%;
-     margin-bottom: 20px;
+    margin-bottom: 20px;
 }
 .contact-form .input-box input,
 .contact-form .input-box textarea{
